@@ -1,0 +1,13 @@
+# Папки
+.gradio/
+.idea/
+venv/
+__pycache__/
+
+# Файлы
+*.pyc
+*.log
+*.sqlite3
+*.egg-info
+.DS_Store
+pyvenv.cfg
